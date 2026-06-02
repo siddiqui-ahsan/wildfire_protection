@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: wildfire-protection
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: gradio>=6.15.2
+Requires-Dist: ipykernel>=7.2.0
+Requires-Dist: streamlit>=1.58.0
+Requires-Dist: torch>=2.12.0
+Requires-Dist: torchvision>=0.27.0
+
+# wildfire_protection
